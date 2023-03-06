@@ -13,5 +13,7 @@
 2. PaddleOCR：[点击跳转](https://github.com/PaddlePaddle/PaddleOCR)
 
 ## 意见反馈
+[点击跳转](https://www.progdomain.com/pdocr/)
 
+## exe安装包下载
 [点击跳转](https://www.progdomain.com/pdocr/)
